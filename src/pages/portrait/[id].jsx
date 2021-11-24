@@ -159,7 +159,7 @@ const styles = (theme) => ({
     display: 'flex',
     flexDirection: 'row',
     alignItems: 'center',
-    fontFamily: 'Fruktur'
+    fontFamily: 'Roboto'
   },
 
   name: {
